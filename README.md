@@ -32,5 +32,7 @@
 
     ```
     python 1D-ConvNet_only.py
+    ```
+    ```
     python Transformers_only.py
     ```
